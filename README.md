@@ -40,15 +40,25 @@ Graphical Representaion
 ## SARSA LEARNING FUNCTION
 
 1.Initialize the Q-values arbitrarily for all state-action pairs.
+
 2.Repeat for each episode:
+
 ->Initialize the starting state.
+
 ->Repeat for each step of episode:
+
    ->Choose action from state using policy derived from Q (e.g., epsilon-greedy).
+   
    ->Take action, observe reward and next state.
+   
    ->Choose action from next state using policy derived from Q (e.g., epsilon-greedy).
+   
    ->Update Q(s, a) := Q(s, a) + alpha * [R + gamma * Q(s', a') - Q(s, a)]
+   
    ->Update the state and action.
+   
    ->Until state is terminal.
+   
 3.Until performance converges.
 
 ## OUTPUT:
