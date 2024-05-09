@@ -1,6 +1,5 @@
 # SARSA Learning Algorithm
 
-
 ## AIM
 To develop a Python program to find the optimal policy for the given RL environment using SARSA-Learning and compare the state values with the Monte Carlo method.
 
@@ -124,9 +123,18 @@ def sarsa(env,
 ```
 
 ## OUTPUT:
-Mention the optimal policy, optimal value function , success rate for the optimal policy.
 
-Include plot comparing the state value functions of Monte Carlo method and SARSA learning.
+Optimal policy, optimal value function , success rate for the optimal policy:
+
+![Screenshot 2024-05-09 214935](https://github.com/NivethaKumar30/sarsa-learning/assets/119559844/3b40baf0-ff8a-47b3-9532-4add25ccfb7e)
+
+State value functions of Monte Carlo method:
+
+![image](https://github.com/NivethaKumar30/sarsa-learning/assets/119559844/aaeb72b3-ecb4-444e-9458-275894f0cada)
+
+State value functions of SARSA learning:
+
+![image](https://github.com/NivethaKumar30/sarsa-learning/assets/119559844/19589d2c-2e08-4e4c-9a4d-296211877cfc)
 
 ## RESULT:
 
