@@ -130,11 +130,13 @@ Optimal policy, optimal value function , success rate for the optimal policy:
 
 State value functions of Monte Carlo method:
 
-![image](https://github.com/NivethaKumar30/sarsa-learning/assets/119559844/aaeb72b3-ecb4-444e-9458-275894f0cada)
+![Screenshot 2024-05-18 002403](https://github.com/NivethaKumar30/sarsa-learning/assets/119559844/527fe71c-1337-4731-8db8-c49fc32ca815)
+
 
 State value functions of SARSA learning:
 
-![image](https://github.com/NivethaKumar30/sarsa-learning/assets/119559844/19589d2c-2e08-4e4c-9a4d-296211877cfc)
+![Screenshot 2024-05-18 002411](https://github.com/NivethaKumar30/sarsa-learning/assets/119559844/08684bbd-1eed-4d12-8ee5-618abe7a02d4)
+
 
 ## RESULT:
 
